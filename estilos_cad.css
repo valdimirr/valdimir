@@ -1,0 +1,79 @@
+#barra1{
+    width: 132px;
+    height: 1000px;
+    float: left;
+    background-color: midnightblue;
+    opacity: 0.5;
+}
+#barra{
+    width: 132px;
+    height: 1000px;
+    float: right ;
+    opacity: 0.5;
+    
+   
+    background-color:  midnightblue;
+}
+body{
+    margin: 0px;
+    background-image: url(img/bleach.jpg)
+}
+#banner{
+    width: 100%;
+    height: 100px;
+    opacity: 0.5;
+    background-color:  midnightblue;
+     
+    
+    
+   
+    
+    
+}
+#cad{
+    height: 400px;
+    width: 50px;
+    padding-left: 400px;
+    background-color: transparent;
+    padding-top: 100px;
+    
+}
+#tudo{
+    width: 1000px;
+   height: 1000px;
+    
+    margin: auto;
+    
+    
+}
+#cont_banner{
+    width: 870px;
+    height: 100px;
+    background-color:seagreen;
+    padding-right: 130px;
+    margin: auto;
+    border-bottom-style: groove;
+    
+        border-top-style: groove;
+          opacity: 1;
+          border-color:midnightblue;
+    
+   
+}
+#final{
+    width: 100%;
+    height: 200px;
+    background-color: darkblue;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:viited{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+    text-decoration: none;
+}

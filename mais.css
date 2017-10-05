@@ -1,0 +1,114 @@
+#banner{
+    width: 100%;
+    height: 200px;
+    background-color: brown;
+    text-align: center;
+     border-bottom-style: groove;
+    
+        border-top-style: groove;
+          
+         border-color:darkviolet;
+         
+
+    
+}
+
+#tudo{
+    width: 1000px;
+   
+    background-color:white;
+    text-align: center;
+    
+    margin: auto;
+    
+}
+body{
+    margin: 0px;
+    background-image: url(img/c.jpg);
+}
+.voltar{
+font:normal 36px Tahoma, Geneva, sans-serif;
+font-style:normal;
+color:#ffffff;
+background:#1568db;
+border:2px solid #68ccc7;
+text-shadow:1px 0px 1px #222222;
+box-shadow:14px 5px 5px #000000;
+-moz-box-shadow:14px 5px 5px #000000;
+-webkit-box-shadow:14px 5px 5px #000000;
+border-radius:28px 10px 10px 10px;
+-moz-border-radius:28px 10px 10px 10px;
+-webkit-border-radius:28px 10px 10px 10px;
+width:20px;
+padding:12px 55px;
+cursor:pointer;
+margin:0 auto;
+}
+.voltar:active{
+cursor:pointer;
+position:relative;
+top:4px;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:viited{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+    text-decoration: none;
+}
+#banner_centro{
+    width: 100%;
+    height: 200px;
+    margin: auto;
+    text-align: left;
+    
+    padding-top: 130px;
+    padding-left: 40px;
+}
+#banner_centro2{
+    width: 100%;
+    height: 200px;
+    margin: auto;
+   text-align: center;
+    
+   
+}
+.voltar:hover{
+  background:#0B3861;
+ 
+}
+#inf{
+ width: 1000px;
+ height: 310px;
+ 
+ background-color: white;
+}
+#foto{
+    height: 1200px;
+    width: 1000px;
+    
+}
+#inf2{
+    width: 1000px;
+    height: 200px;
+        
+}
+#foto2{
+    height: 500px;
+    width: 1000px;
+    
+}
+#inf3{
+    width: 1000px;
+    height: 740px;
+}
+#foto3{
+    height: 510px;
+    width: 1000px;
+    
+}
